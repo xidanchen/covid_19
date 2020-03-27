@@ -1,0 +1,5 @@
+http://3.134.76.30/
+https://rpubs.com/pbaumgartner/wayback
+https://towardsdatascience.com/web-scraping-with-python-a-to-copy-z-277a445d64c7
+
+https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af
